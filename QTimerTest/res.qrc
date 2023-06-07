@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="song">img/ocean.mp3</file>
+        <file>img/favicon1.ico</file>
+        <file>img/favicon2.ico</file>
+    </qresource>
+</RCC>
